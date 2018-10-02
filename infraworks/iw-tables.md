@@ -1,4 +1,4 @@
-## Идексы и названия таблицы в БД InfraWorks
+## Идексы и названия таблиц в БД InfraWorks
 
 	[1] ABUTMENTS
 	[2] BARRIERS
