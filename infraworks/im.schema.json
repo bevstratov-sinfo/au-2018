@@ -1,0 +1,44 @@
+{
+	"Classes": [
+		{
+			"name": "NEW_BUILDINGS",
+			"base": "BUILDINGS"
+		},
+		{
+			"name": "DMNTG_BUILDINGS",
+			"base": "BUILDINGS"
+		},
+		{
+			"name": "STEEL_BRIDGES",
+			"base": "BRIDGES"
+        },
+        {
+            "name": "CONCRETE_BRIDGES",
+            "base": "BRIDGES"
+        }
+	],
+	"Display": {
+		"en": [
+			{
+				"name": "NEW_BUILDINGS",
+				"displayName": "Новые здания",
+				"category": "Здания"
+            },
+			{
+				"name": "DMNTG_BUILDINGS",
+				"displayName": "Сносимые здания",
+				"category": "Здания"
+			},
+			{
+				"name": "STEEL_BRIDGES",
+				"displayName": "Металлические мосты",
+				"category": "Мосты"
+            },
+            {
+				"name": "CONCRETE_BRIDGES",
+				"displayName": "Железобетонные мосты",
+				"category": "Мосты"
+			}
+		]
+	}
+}
