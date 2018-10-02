@@ -1,0 +1,200 @@
+{
+  "Classes": [
+	{
+	  "name": "BUILDINGS",
+	  "base": "BUILDINGS",
+	  "Attributes": [
+		{
+		  "name": "BLDG_NAME",
+		  "type": "String"
+		},	  
+		{	
+		  "name": "BLDG_TYPE",
+		  "type": "String"
+		},
+		{
+		  "name": "BLDG_PURPOSE",
+		  "type": "String"
+		},
+		{
+		  "name": "BLDG_INDEX",
+		  "type": "String"
+		},
+		{
+		  "name": "BLDG_CITY",
+		  "type": "String"
+		},		
+		{
+		  "name": "BLDG_DISTRICT",
+		  "type": "String"
+		},		
+		{
+		  "name": "BLDG_STREET",
+		  "type": "String"
+		},
+		{
+		  "name": "BLDG_NUMBER",
+		  "type": "String"
+		}		
+	  ]
+	},
+	{
+		"name": "ROADS",
+		"base": "ROADS",
+		"Attributes": [
+		  {
+			"name": "ROAD_NAME",
+			"type": "String"
+		  },	  
+		  {	
+			"name": "ROAD_REF",
+			"type": "String"
+		  },
+		  {
+			"name": "ROAD_HIGHWAY",
+			"type": "String"
+		  },
+		  {
+			"name": "ROAD_ONEWAY",
+			"type": "String"
+		  },
+		  {
+			"name": "ROAD_BRIDGE",
+			"type": "String"
+		  },		
+		  {
+			"name": "ROAD_TUNNEL",
+			"type": "String"
+		  },		
+		  {
+			"name": "ROAD_MAXSPEED",
+			"type": "String"
+		  },
+		  {
+			"name": "ROAD_LANES",
+			"type": "String"
+		  },
+		  {
+			"name": "ROAD_WIDTH",
+			"type": "String"
+		  },
+		  {
+			"name": "ROAD_SURFACE",
+			"type": "String"
+		  }			
+		]
+	  }
+  ],
+  "Display": {
+	"en": [
+	  {
+		"name": "BLDG_NAME",
+		"displayName": "Наименование",
+		"category": "Данные ГИС",
+		"priority": "1001"
+	  },
+	  {
+		"name": "BLDG_TYPE",
+		"displayName": "Тип",
+		"category": "Данные ГИС",
+		"priority": "1002"
+	  },
+	  {
+		"name": "BLDG_PURPOSE",
+		"displayName": "Назначение",
+		"category": "Данные ГИС",
+		"priority": "1003"
+	  },
+	  {
+		"name": "BLDG_INDEX",
+		"displayName": "Почтовый индекс",
+		"category": "Данные ГИС",
+		"priority": "1004"
+	  },
+	  {
+		"name": "BLDG_CITY",
+		"displayName": "Населённый пункт",
+		"category": "Данные ГИС",
+		"priority": "1005"
+	  },
+	  {
+		"name": "BLDG_DISTRICT",
+		"displayName": "Район",
+		"category": "Данные ГИС",
+		"priority": "1006"
+	  },
+	  {
+		"name": "BLDG_STREET",
+		"displayName": "Улица",
+		"category": "Данные ГИС",
+		"priority": "1007"
+	  },
+	  {
+		"name": "BLDG_NUMBER",
+		"displayName": "Дом",
+		"category": "Данные ГИС",
+		"priority": "1008"
+	  },
+	  {
+		"name": "ROAD_NAME",
+		"displayName": "Название дороги",
+		"category": "Данные ГИС",
+		"priority": "2001"
+	  },
+	  {
+		"name": "ROAD_REF",
+		"displayName": "Официальное название (обозначение) дороги",
+		"category": "Данные ГИС",
+		"priority": "2002"
+	  },
+	  {
+		"name": "ROAD_HIGHWAY",
+		"displayName": "Классификация дороги",
+		"category": "Данные ГИС",
+		"priority": "2003"
+	  },
+	  {
+		"name": "ROAD_ONEWAY",
+		"displayName": "Односторонняя дорога",
+		"category": "Данные ГИС",
+		"priority": "2004"
+	  },
+	  {
+		"name": "ROAD_BRIDGE",
+		"displayName": "Мост",
+		"category": "Данные ГИС",
+		"priority": "2005"
+	  },
+	  {
+		"name": "ROAD_TUNNEL",
+		"displayName": "Тонель",
+		"category": "Данные ГИС",
+		"priority": "2006"
+	  },
+	  {
+		"name": "ROAD_MAXSPEED",
+		"displayName": " Официально разрешенная максимальная скорость",
+		"category": "Данные ГИС",
+		"priority": "2007"
+	  },
+	  {
+		"name": "ROAD_LANES",
+		"displayName": "Количество полос",
+		"category": "Данные ГИС",
+		"priority": "2008"
+	  },
+	  {
+		"name": "ROAD_WIDTH",
+		"displayName": "Ширина проезжей части",
+		"category": "Данные ГИС",
+		"priority": "2009"
+	  },
+	  {
+		"name": "ROAD_SURFACE",
+		"displayName": "Покрытие",
+		"category": "Данные ГИС",
+		"priority": "2010"
+	  }			  
+	]
+  }
+}
