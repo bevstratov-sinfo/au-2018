@@ -14,4 +14,4 @@
 2. Экспорт координат расставленных объектов: [xml-coordinates.js](/infraworks/js-api/xml-coordinates.js)
 
 #### 3ds Max
-Формирование структуры Revit по параметру: [group-revit.ma](/3dsmax/group-revit.ms)
+Формирование структуры Revit по параметру: [group-revit.ms](/3dsmax/group-revit.ms)
